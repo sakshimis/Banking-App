@@ -1,1 +1,1 @@
-This is the home page of the app
+This is updated home page
